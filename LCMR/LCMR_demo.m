@@ -2,7 +2,7 @@
 %              Images Using Local Covariance Matrix Representation" to be
 %              appeared TGRS, Leyuan Fang et al.
 %Hunan Univerisity
-%written by Nanjun He (henanjun@hnu.edu.com)
+%written by Nanjun He (henanjun@hnu.edu.cn)
 
 clc
 close all
